@@ -3,6 +3,7 @@ import './App.css';
 import "./components/About";
 import "./components/Contact";
 import "./components/Prework";
+import "./components/Services";
 
 export default function App() {
   return (
