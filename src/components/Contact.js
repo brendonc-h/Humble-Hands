@@ -123,18 +123,3 @@ export default function Contact() {
     </section>
   );
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Challenge-20-React/Contact.js at main · brendonc-h/Challenge-20-React

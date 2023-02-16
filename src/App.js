@@ -1,9 +1,10 @@
-import logo from './logo.svg';
+import React from "react";
 import './App.css';
-import "./components/About";
-import "./components/Contact";
-import "./components/Prework";
-import "./components/Services";
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Prework from "./components/Prework";
+import Services from "./components/Services";
+import Navbar from "./components/Navbar";
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
       <Navbar/>
       <About/>
       <Prework/>
+      <Services/>
       <Contact/>
     </main>
   );
