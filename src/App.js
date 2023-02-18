@@ -8,7 +8,7 @@ import Navbar from "./components/Navbar";
 
 export default function App() {
   return (
-    <main className="">
+    <main className="text-white-400 bg-white-900 body-font">
       <Navbar/>
       <About/>
       <Prework/>
