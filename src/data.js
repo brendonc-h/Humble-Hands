@@ -8,7 +8,7 @@ export const prework = [
 }
 ];
 
-export const services = [
+export const Services = [
     "",
     "",
 
