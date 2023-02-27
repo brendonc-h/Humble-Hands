@@ -1,5 +1,5 @@
 import React from "react";
-import { Prework } from "../data";
+// import { Prework } from "../data";
 
 export default function Prework() {
     return(

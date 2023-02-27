@@ -1,12 +1,12 @@
-// import React from "react";
-// import Services from "../data"; z
+import React from "react";
+// import Services from "../data"; 
 
-// export default function Services(){
-//     return(
-//         <section>
-//             <div>
+export default function Services(){
+    return(
+        <section>
+            <div>
 
-//             </div>
-//         </section>
-//     );
-// };
+            </div>
+        </section>
+    );
+};
