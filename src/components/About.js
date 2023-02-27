@@ -31,6 +31,7 @@ export default function About() {
             className="object-cover object-center rounded"
             alt="hero"
             src="./headshot.jpeg"
+            // TODO: need to have a headshot from delawn here for the webiste
           />
         </div>
       </div>
