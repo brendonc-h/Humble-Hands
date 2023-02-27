@@ -1,4 +1,4 @@
-export const prework = [
+export const Prework = [
 {
     title:"",
     subtitle:"",
