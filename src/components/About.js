@@ -20,7 +20,7 @@ export default function About() {
               Get a quote from me now!
             </a>
             <a
-              href="#projects"
+              href="#prework"
               className="ml-4 inline-flex text-black-400 bg-yellow-300 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
               See My Past Work
             </a>
